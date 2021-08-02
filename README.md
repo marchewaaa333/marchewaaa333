@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marchewaaa333
-- 👀 I’m interested in Java
+- 👀 I’m interested in Java, Python and HTML
 - 🌱 I’m currently learning Java
 
 <!---
