@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm marchewaaa333</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marchewaaa333&label=Profile%20views&color=0e75b6&style=flat" alt="marchewaaa333" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marchewaaa333" alt="marchewaaa333" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marchewaaa333&theme=onedark" alt="marchewaaa333" /></a> </p>
 
 - 🔭 I’m currently working on **EmeraldClient**
 
