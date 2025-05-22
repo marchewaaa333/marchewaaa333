@@ -1,5 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<h1 align="center">Hi 👋, I'm Hubert</h1>
 - 🔭 I’m currently working on **The500XY 3d Printer**
 
 - 📫 How to reach me **kontakt@hg-3d.pl, HG-3D.PL**
